@@ -1,0 +1,20 @@
+{
+  "measured_seconds": 10,
+  "visible_row_updates": 126,
+  "latency_avg_ms": 67.77228571428572,
+  "latency_p50_ms": 68.961,
+  "latency_p90_ms": 101.648,
+  "latency_p99_ms": 120.672,
+  "latency_max_ms": 122.623,
+  "latency_over_200ms_count": 0,
+  "latency_over_100ms_count": 19,
+  "row_interval_count": 64405,
+  "row_interval_p50_ms": 201.01,
+  "row_interval_under_100ms_ratio": 0.17301451750640479,
+  "row_pings_total": 66405,
+  "row_pings_merged_by_100ms_throttle_ratio": 0.0,
+  "visible_row_updates_per_second": 12.6,
+  "batches": 620,
+  "rows_notified_per_batch_avg": 107.10483870967742,
+  "visible_rows_notified_per_batch_avg": 0.47580645161290325
+}
